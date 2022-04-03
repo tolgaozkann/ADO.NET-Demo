@@ -1,0 +1,10 @@
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.exe.config
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.exe
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\bin\Debug\AdoNetDemo.pdb
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.AssemblyReference.cache
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.Form1.resources
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.Properties.Resources.resources
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.GenerateResource.cache
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.exe
+C:\Users\ozkan\source\repos\ConsoleApp1\AdoNetDemo\obj\Debug\AdoNetDemo.pdb
